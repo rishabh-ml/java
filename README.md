@@ -1,2 +1,8 @@
 # java
-This Repository hold my Beginner Java Programs. Hope these Programs help you.
+This Repository hold my Beginner Java Programs. 
+<br>
+Hope these Programs help you.
+<br>
+Regards,
+<br>
+Rishabh Shukla.
