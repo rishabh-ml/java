@@ -2,6 +2,7 @@
 //For the next 200 units: ₹2.50 per unit
 //For units above 300: ₹3.50 per unit
 
+
 import java.util.Scanner;
 
 public class ElectricityBill {
